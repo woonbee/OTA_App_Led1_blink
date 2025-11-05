@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/CMakeFiles/bootloader
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/CMakeFiles/bootloader.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/CMakeFiles/bootloader-complete.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

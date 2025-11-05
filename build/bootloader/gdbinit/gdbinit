@@ -1,0 +1,2 @@
+source D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader/gdbinit/symbols
+source D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/bootloader/gdbinit/connect
