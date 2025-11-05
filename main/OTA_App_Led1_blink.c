@@ -19,7 +19,7 @@ static const char *TAG = "LED1_OTA";
 static EventGroupHandle_t wifi_event_group;
 #define WIFI_CONNECTED_BIT BIT0
 
-#define DEFAULT_OTA_URL "https://github.com/woonbee/OTA_Test/releases/download/v1.1/OTA_App_Led1_blink.bin"
+#define DEFAULT_OTA_URL "https://github.com/woonbee/OTA_App_Led1_blink/releases/download/v1.1/OTA_App_Led1_blink.bin"
 
 /* ===== NVS 저장/로드 ===== */
 void save_ota_url(const char *url)
@@ -151,7 +151,7 @@ void app_main(void)
     ESP_LOGI(TAG, "==========================================");
     ESP_LOGI(TAG, "Start LED1 blinking FW by OTA updating...");
     ESP_LOGI(TAG, "==========================================");
-    
+
     xTaskCreate(blink_led_task, "blink_led_task", 2048, NULL, 5, NULL);
     xTaskCreate(ota_task, "ota_task", 8192, NULL, 4, NULL);
 }
