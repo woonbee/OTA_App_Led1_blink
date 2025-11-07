@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "OTA_App_Led1_blink",
-    "project_version":    "1",
+    "project_version":    "v1.1-1-gc0b73b8-dirty",
     "project_path":       "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.5.1",
     "build_dir":          "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build",
