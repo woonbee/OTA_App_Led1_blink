@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "OTA_App_Led1_blink",
-    "project_version":    "v1.1-1-gc0b73b8-dirty",
+    "project_version":    "v1.1-9-gd27cc14-dirty",
     "project_path":       "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.5.1",
     "build_dir":          "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build",
@@ -1236,7 +1236,7 @@
             "type": "LIBRARY",
             "lib": "__idf_main",
             "reqs": [],
-            "priv_reqs": [ "esp_https_ota", "esp_wifi", "esp_netif", "nvs_flash", "driver", "mbedtls", "espressif__led_strip" ],
+            "priv_reqs": [ "esp_https_ota", "esp_wifi", "esp_netif", "nvs_flash", "driver", "mbedtls", "app_update", "espressif__led_strip" ],
             "managed_reqs": [],
             "managed_priv_reqs": [ "espressif__led_strip" ],
             "file": "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/build/esp-idf/main/libmain.a",
@@ -2923,7 +2923,7 @@
             "dir": "D:/Work/Study_ESP/WiFi/OTA_App_Led1_blink/main",
             "lib": "__idf_main",
             "reqs": [],
-            "priv_reqs": [ "esp_https_ota", "esp_wifi", "esp_netif", "nvs_flash", "driver", "mbedtls", "espressif__led_strip" ],
+            "priv_reqs": [ "esp_https_ota", "esp_wifi", "esp_netif", "nvs_flash", "driver", "mbedtls", "app_update", "espressif__led_strip" ],
             "managed_reqs": [],
             "managed_priv_reqs": [ "espressif__led_strip" ],
             "include_dirs": [ "." ]
